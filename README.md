@@ -1,4 +1,4 @@
--> this is a mini project of a simple crud operation with jwt token based authentication
+-> this is a mini project of a simple crud operation with jwt token based authentication\n
 -> writing in Express js
 
 -> how to run
